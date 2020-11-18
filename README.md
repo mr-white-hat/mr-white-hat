@@ -26,10 +26,10 @@
 
 <div align="center">
 
-<a href="https://github.com/savagecarol">
+<a href="https://github.com/mr-white-hat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-white-hat&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/savagecarol">
+<a href="https://github.com/mr-white-hat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-white-hat&show_icons=true&theme=dark&line_height=27" alt="SavageCarol github stats"/>
 </a>
 
