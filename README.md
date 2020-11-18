@@ -5,13 +5,10 @@
 - 📫 How to reach me: <a href="https://www.mr-white-hat.me" target="_blank"> mr-white-hat.me </a>
 
 [![Linkedin: mr-white-hat](https://img.shields.io/badge/-mr_white_hat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-white-hat/)](https://www.linkedin.com/in/mr-white-hat/)
-
-<br>
-![](https://komarev.com/ghpvc/?mr-white-hat&color=green)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-white-hat&color=green&label=Profile Views&style=plastic" alt="mr-white-hat" /> </p><br>
 
 ## GET IN TOUCH
-<br>♦ Linkedin : <a href="https://www.linkedin.com/in/mr-white-hat/" target="_blank">@mr-white-hat</a><br>
+♦ Linkedin : <a href="https://www.linkedin.com/in/mr-white-hat/" target="_blank">@mr-white-hat</a><br>
 ♦ Facebook : <a href="https://www.facebook.com/whitehat.mr" target="_blank">@whitehat.mr</a><br>
 ♦ Instagram : <a href="https://www.instagram.com/mr._white_hat_/" target="_blank" target="_blank">@mr._white_hat_</a><br>
 ♦ Twitter : <a href="https://twitter.com/mr_white_hat_" target="_blank">@mr_white_hat_</a><br>
