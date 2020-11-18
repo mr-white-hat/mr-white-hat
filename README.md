@@ -8,9 +8,10 @@
 
 <br>
 ![](https://komarev.com/ghpvc/?mr-white-hat&color=green)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-white-hat&color=green&label=Profile Views&style=plastic" alt="mr-white-hat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-white-hat&color=green&label=Profile Views&style=plastic" alt="mr-white-hat" /> </p><br>
+
 ## GET IN TOUCH
-♦ Linkedin : <a href="https://www.linkedin.com/in/mr-white-hat/" target="_blank">@mr-white-hat</a><br>
+<br>♦ Linkedin : <a href="https://www.linkedin.com/in/mr-white-hat/" target="_blank">@mr-white-hat</a><br>
 ♦ Facebook : <a href="https://www.facebook.com/whitehat.mr" target="_blank">@whitehat.mr</a><br>
 ♦ Instagram : <a href="https://www.instagram.com/mr._white_hat_/" target="_blank" target="_blank">@mr._white_hat_</a><br>
 ♦ Twitter : <a href="https://twitter.com/mr_white_hat_" target="_blank">@mr_white_hat_</a><br>
